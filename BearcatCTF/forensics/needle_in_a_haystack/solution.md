@@ -4,5 +4,7 @@ prompt - Sometimes find the flag is like finding a needle In a haystaCk, soMetim
 
 from the promt  , if we look at the capitalized letters , there is a clue , - "ICMP"
 
-by looking at the ICMP  stream , 
+by looking at the ICMP  stream ,
+
+![ICMP]()
 
